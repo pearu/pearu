@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently a Senior Software Engineer at [Quansight](https://www.quansight.com/)
-- My current interests in Scientific Computing include (see [here](https://pearu.github.io/) for technical blogs)
+- My current interests in Scientific Computing include (see [here](https://pearu.github.io/) for technical blogs):
   - Theory of Sparse Arrays, in particular, PyTorch sparse tensors support
   - Interoperability of Array-like objects from various software
   - Algorithms and Implementations
+  - Support Fortran 90 TYPE construct in F2Py
 - I have initiated and co-authored a number of open source projects with the following highlights:
   - [RBC](https://github.com/xnd-project/rbc) - Remote Backend Compiler
   - [F2Py](https://numpy.org/doc/stable/f2py/) - Fortran to Python interface generator [DOI](https://doi.org/10.1504/IJCSE.2009.029165), ships with [NumPy](https://numpy.org) [DOI](https://doi.org/10.1038/s41586-020-2649-2)
