@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently a Senior Software Engineer at [Quansight](https://www.quansight.com/)
-- My current interests in Scientific Computing include ([here](https://pearu.github.io/) for technical blogs)
+- My current interests in Scientific Computing include (see [here](https://pearu.github.io/) for technical blogs)
   - Theory of Sparse Arrays, in particular, PyTorch sparse tensors support
   - Interoperability of Array-like objects from various software
   - Algorithms and Implementations
