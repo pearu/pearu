@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pearu-peterson-8877bb162/), [GMail](pearu.peterson-if-you-are-human-you-will-figure-it-out)
 - Fun facts:
   - I have completed [AoC 2019](https://adventofcode.com/2019), [AoC 2020](https://adventofcode.com/2020)
-  - Estonian Champion 2006 in Dog Obidience (German Shepherd), currently training for Agility (Boston Terrier)
+  - Estonian Champion 2006 in Dog Obedience (German Shepherd), currently training for Agility (Boston Terrier)
   - Ship engineer by profession, raced with power boats (Circuit S-250, S-350, OSY-400, O-125, F-500), teached sailing to kids
 - 😄 Pronouns: [standard Modern English](https://en.wikipedia.org/wiki/English_personal_pronouns) (frankly, while being Estonian, I have no idea why should I care)
