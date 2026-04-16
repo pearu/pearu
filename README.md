@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently a Staff Software Engineer at [Quansight](https://www.quansight.com/)
+- I'm currently a Staff Software Engineer at [OpenTeams](https://www.openteams.com/)
 - My current interests in Scientific Computing include (see [here](https://pearu.github.io/) for technical blogs):
   - Functional algorithms to complex and real valued functions, with accuracy validation and code generation
   - Validation of mathematical functions with complex inputs in various libraries such as NumPy, PyTorch, XLA/JAX, Tensorflow, MPMath, etc
