@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - Algorithms and Implementations
   - Support Fortran 90 TYPE construct in F2Py
 - I have initiated and co-authored a number of open source projects with the following highlights:
+  - [Praiser](https://github.com/openteams-ai/praiser) - Record the popular open-source projects where a person holds an elevated role, with evidence.
   - [functional_algorithms](https://github.com/pearu/functional_algorithms) - Functional algorithms with code generation to Python, NumPy, C++, XLA/Client, StableHLO targets. 
   - [RBC](https://github.com/xnd-project/rbc) - Remote Backend Compiler
   - [F2Py](https://numpy.org/doc/stable/f2py/) - Fortran to Python interface generator [DOI](https://doi.org/10.1504/IJCSE.2009.029165), ships with [NumPy](https://numpy.org) [DOI](https://doi.org/10.1038/s41586-020-2649-2)
